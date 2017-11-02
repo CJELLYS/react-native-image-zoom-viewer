@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-image-zoom-viewer@^1.2.47",
+        "scope": null,
+        "escapedName": "react-native-image-zoom-viewer",
+        "name": "react-native-image-zoom-viewer",
+        "rawSpec": "^1.2.47",
+        "spec": ">=1.2.47 <2.0.0",
+        "type": "range"
+      },
+      "/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact"
+    ]
+  ],
+  "_from": "react-native-image-zoom-viewer@>=1.2.47 <2.0.0",
+  "_id": "react-native-image-zoom-viewer@1.2.47",
+  "_inCache": true,
+  "_location": "/react-native-image-zoom-viewer",
+  "_nodeVersion": "6.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-image-zoom-viewer-1.2.47.tgz_1483412660111_0.40268391254357994"
+  },
+  "_npmUser": {
+    "name": "ascoders",
+    "email": "576625322@qq.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-image-zoom-viewer@^1.2.47",
+    "scope": null,
+    "escapedName": "react-native-image-zoom-viewer",
+    "name": "react-native-image-zoom-viewer",
+    "rawSpec": "^1.2.47",
+    "spec": ">=1.2.47 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npmjs.org/react-native-image-zoom-viewer/-/react-native-image-zoom-viewer-1.2.47.tgz",
+  "_shasum": "6a87c36fb59e393f12f577a4ad43e43223de4372",
+  "_shrinkwrap": null,
+  "_spec": "react-native-image-zoom-viewer@^1.2.47",
+  "_where": "/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact",
+  "author": {
+    "name": "ascoders"
+  },
+  "bugs": {
+    "url": "https://github.com/ascoders/react-native-image-viewer/issues"
+  },
+  "dependencies": {
+    "nt-transmit-transparently": "^1.0.7",
+    "react-native-image-pan-zoom": "^1.1.12"
+  },
+  "description": "大图浏览",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6a87c36fb59e393f12f577a4ad43e43223de4372",
+    "tarball": "https://registry.npmjs.org/react-native-image-zoom-viewer/-/react-native-image-zoom-viewer-1.2.47.tgz"
+  },
+  "homepage": "https://github.com/ascoders/react-native-image-viewer#readme",
+  "keywords": [
+    "image-viewer"
+  ],
+  "license": "ISC",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "ascoders",
+      "email": "576625322@qq.com"
+    }
+  ],
+  "name": "react-native-image-zoom-viewer",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0",
+    "react-native": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascoders/react-native-image-viewer.git"
+  },
+  "scripts": {},
+  "typings": "lib/index.d.ts",
+  "version": "1.2.47"
+}
