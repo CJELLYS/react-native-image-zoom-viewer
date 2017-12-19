@@ -13,9 +13,11 @@
       "/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact"
     ]
   ],
-  "_from": "react-native-image-zoom-viewer@>=1.2.47 <2.0.0",
+  "_from": "git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
   "_id": "react-native-image-zoom-viewer@1.2.47",
+  "_inBundle": false,
   "_inCache": true,
+  "_integrity": "sha1-nhTpnhN8aCrsYm/P7PkNHFAfYWE=",
   "_location": "/react-native-image-zoom-viewer",
   "_nodeVersion": "6.4.0",
   "_npmOperationalInternal": {
@@ -29,21 +31,22 @@
   "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "react-native-image-zoom-viewer@^1.2.47",
-    "scope": null,
-    "escapedName": "react-native-image-zoom-viewer",
+    "type": "git",
+    "raw": "react-native-image-zoom-viewer@git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
     "name": "react-native-image-zoom-viewer",
-    "rawSpec": "^1.2.47",
-    "spec": ">=1.2.47 <2.0.0",
-    "type": "range"
+    "escapedName": "react-native-image-zoom-viewer",
+    "rawSpec": "git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
+    "saveSpec": "git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
+    "fetchSpec": "https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
+    "gitCommittish": "master"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.npmjs.org/react-native-image-zoom-viewer/-/react-native-image-zoom-viewer-1.2.47.tgz",
+  "_resolved": "git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git#97c125fd8e7fc2f9366a3e09b75e6591fc01aa66",
   "_shasum": "6a87c36fb59e393f12f577a4ad43e43223de4372",
   "_shrinkwrap": null,
-  "_spec": "react-native-image-zoom-viewer@^1.2.47",
+  "_spec": "react-native-image-zoom-viewer@git+https://github.com/CJELLYS/react-native-image-zoom-viewer.git",
   "_where": "/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact",
   "author": {
     "name": "ascoders"
@@ -51,10 +54,12 @@
   "bugs": {
     "url": "https://github.com/ascoders/react-native-image-viewer/issues"
   },
+  "bundleDependencies": false,
   "dependencies": {
     "nt-transmit-transparently": "^1.0.7",
     "react-native-image-pan-zoom": "^1.1.12"
   },
+  "deprecated": false,
   "description": "大图浏览",
   "devDependencies": {},
   "directories": {},
@@ -80,7 +85,6 @@
     "react": "^0.14.0 || ^15.0.0",
     "react-native": "*"
   },
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ascoders/react-native-image-viewer.git"
